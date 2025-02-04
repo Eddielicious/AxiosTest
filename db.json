@@ -29,6 +29,26 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    }
+    },
+    {
+  "id": 790,
+  "category": "workshop",
+  "title": "Urban Gardening Workshop",
+  "description": "Learn how to grow your own vegetables in small spaces.",
+  "location": "Community Center Berlin",
+  "date": "August 15, 2022",
+  "time": "14:30",
+  "organizer": "Marie Schmidt"
+},
+{
+  "id": 791,
+  "category": "demo",
+  "title": "Solar Panel Installation Demo",
+  "description": "Expert demonstration of home solar panel setup.",
+  "location": "Green Energy Center Munich",
+  "date": "September 3, 2022",
+  "time": "10:00",
+  "organizer": "Thomas Weber"
+}
   ]
 }
